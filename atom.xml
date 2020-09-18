@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Thomas&#39;s Blog</title>
   
-  <subtitle>王韬</subtitle>
+  <subtitle>刘先生</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>孤岛violet</name>
+    <name>lhj.wang</name>
     
   </author>
   
